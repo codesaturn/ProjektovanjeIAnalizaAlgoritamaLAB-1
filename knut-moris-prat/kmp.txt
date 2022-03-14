@@ -1,0 +1,112 @@
+Velicina texta : 697
+Velicina stringa : 5
+Pozicije : 191 244 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 6827
+Velicina stringa : 5
+Pozicije : 1458 1730 2154 2318 2335 6604 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 67836
+Velicina stringa : 5
+Pozicije : 1434 2073 2128 2167 3202 3594 4542 4918 5475 5668 5714 6917 8599 8850 9368 12210 12436 13734 13855 13891 13916 15750 18458 18654 20303 21474 22858 24352 25625 27778 27936 29397 30225 30642 31033 31147 32191 32638 33179 37716 38003 39438 43620 44409 46673 47014 47641 50582 50851 51545 54090 54605 55394 58095 58970 60323 62866 63151 63600 64206 64461 65206 66106 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 67534
+Velicina stringa : 5
+Pozicije : 1955 4062 5056 5344 7327 7927 10634 11133 13263 13737 14473 17880 18576 18981 19743 19812 20036 21342 21470 23058 23738 24445 25090 25425 25636 26087 27308 29057 29361 30005 31812 32577 32774 34134 34629 35442 36248 36398 36948 37097 38043 38497 38951 41455 42182 45081 45457 46455 47465 47484 47718 47889 49665 50229 50812 50864 50946 51463 51585 54152 54297 55485 56314 58128 59028 59141 59504 59562 60411 62985 63176 63415 64383 65722 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 697
+Velicina stringa : 10
+Pozicije : 659 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 6827
+Velicina stringa : 10
+Pozicije : 405 556 689 2779 3747 4550 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 67836
+Velicina stringa : 10
+Pozicije : 2304 2801 4121 7467 7612 7945 8489 9069 9417 14778 19995 21277 24647 25332 25399 26714 27208 29089 29887 30389 36303 37885 39332 39807 48990 49565 49934 50443 60970 63069 63485 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 1 ms
+Vreme ukupno : 1 ms
+----------------------
+Velicina texta : 67534
+Velicina stringa : 10
+Pozicije : 243 1053 1872 3928 7120 9709 11888 12308 13318 14038 14166 15873 17141 18925 20265 20555 20886 21956 22402 23870 27098 32738 32817 34235 34304 34986 36702 40680 43774 44985 48022 49170 49610 50222 51657 53738 55865 57018 58779 58855 61412 63467 64016 65981 67308 67442 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 697
+Velicina stringa : 20
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 6827
+Velicina stringa : 20
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 67836
+Velicina stringa : 20
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 67534
+Velicina stringa : 20
+Pozicije : 2554 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 697
+Velicina stringa : 50
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 6827
+Velicina stringa : 50
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 67836
+Velicina stringa : 50
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 67534
+Velicina stringa : 50
+Pozicije : 1933 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 1 ms
+Vreme ukupno : 1 ms
+----------------------

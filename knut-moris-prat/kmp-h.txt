@@ -1,0 +1,112 @@
+Velicina texta : 100
+Velicina stringa : 5
+Pozicije : 36 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 1000
+Velicina stringa : 5
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 10000
+Velicina stringa : 5
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 100000
+Velicina stringa : 5
+Pozicije : 39754 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 100
+Velicina stringa : 10
+Pozicije : 24 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 1000
+Velicina stringa : 10
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 10000
+Velicina stringa : 10
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 100000
+Velicina stringa : 10
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 1 ms
+Vreme ukupno : 1 ms
+----------------------
+Velicina texta : 100
+Velicina stringa : 20
+Pozicije : 47 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 1000
+Velicina stringa : 20
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 10000
+Velicina stringa : 20
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 100000
+Velicina stringa : 20
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 100
+Velicina stringa : 50
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 1000
+Velicina stringa : 50
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 10000
+Velicina stringa : 50
+Pozicije : 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno : 0 ms
+----------------------
+Velicina texta : 100000
+Velicina stringa : 50
+Pozicije : 4258 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 1 ms
+Vreme ukupno : 1 ms
+----------------------
