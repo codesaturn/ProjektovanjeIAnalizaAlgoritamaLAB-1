@@ -1,0 +1,14 @@
+Velicina texta : 697
+Velicina stringa : 4
+Pozicije : 25 
+Vreme za prefix : 31 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno :31 ms
+----------------------
+Velicina texta : 697
+Velicina stringa : 4
+Pozicije : 25 
+Vreme za prefix : 0 ms
+Vreme za poredjenje : 0 ms
+Vreme ukupno :0 ms
+----------------------
